@@ -3,7 +3,7 @@
 A simple and classic Snake Game built using Python's Turtle module.  
 Inspired by the classic Nokia snake game.
 
----
+
 
 ## 🎮 Features
 - Smooth snake movement
@@ -12,7 +12,7 @@ Inspired by the classic Nokia snake game.
 - Score tracking
 - Collision detection (wall + self)
 
----
+
 
 ## 📁 Project Structure
 nokiasnake/
@@ -22,19 +22,13 @@ nokiasnake/
 │── scoreboard.py
 
 
----
 
 ## ▶️ How to Run
 
-1. Make sure Python is installed (Python 3.x)
-2. Clone or download this repository
-3. Navigate to the project folder
+1. Install Python (3.x)
+2. Open terminal in project folder
+3. Run:
 
-```bash
-cd nokiasnake
-python game.py
-
----
 
 ## 🎯 Controls
 
@@ -43,7 +37,7 @@ python game.py
 - ← : Move Left  
 - → : Move Right  
 
----
+
 
 ## 🧠 Game Logic
 
@@ -56,7 +50,6 @@ python game.py
   - Snake hits wall
   - Snake hits its own body
 
----
 
 ## 📦 Requirements
 
@@ -67,7 +60,7 @@ Built using:
 - time
 - random
 
----
+
 
 ## 🚀 Future Improvements
 - High score saving
@@ -75,12 +68,10 @@ Built using:
 - Speed increase over time
 - Sound effects
 
----
 
 ## 👨‍💻 Author
 
 SRI HASITHA GUDIPATI
 
----
 
 ⭐ Star this repo if you like it!
